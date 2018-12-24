@@ -1,2 +1,2 @@
 # clinical-trials
-This is the first app built on Hyperledger Composer
+This is the app for Clinical trials built on Hyperledger Composer
